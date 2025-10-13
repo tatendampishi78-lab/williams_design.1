@@ -201,17 +201,6 @@ Include the following in your main `README.md`:
 
 ---
 
-## Grading rubric (100 points)
-
-Category                        | Points | Description
------------------------------- | ------ | -----------------------------------------------
-Individual research quality     | 25     | Depth and clarity of your assigned page
-Team integration                | 25     | Alignment between archetype, persuasion, and funnel ideas
-Git collaboration               | 25     | Proper branching, commits, pull requests
-Presentation and reflection     | 25     | Clear final presentation and insights shared in class
-
----
-
 ## Tips for success
 
 - Communicate regularly with your team using GitHub Discussions or chat
