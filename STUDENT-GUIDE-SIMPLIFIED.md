@@ -21,6 +21,38 @@ Quick navigation:
 - Each student researches **one competitor** in your chosen business category
 - Compare how different competitors use these strategies
 
+### What each student delivers (2 pages total)
+- One topic page (pick exactly one: `docs/archetype.md` OR `docs/persuasion.md` OR `docs/sales-funnel.md`)
+- One competitor page (copy `docs/competitors/competitor-template.md` and rename for your competitor)
+
+### Team README linking
+- In `README.md`, add a "Team Pages" section that lists each student by name and links to their two pages
+   - Example:
+      - Student A: Archetype (`docs/archetype.md`), Competitor (`docs/competitors/starbucks.md`)
+      - Student B: Persuasion (`docs/persuasion.md`), Competitor (`docs/competitors/dunkin.md`)
+      - Student C: Sales Funnel (`docs/sales-funnel.md`), Competitor (`docs/competitors/blue-bottle.md`)
+
+### Minimize merge conflicts: skeleton-first workflow (use your OWN team repo)
+1) First teammate creates your team repo and immediately commits empty files:
+    - `docs/archetype.md`, `docs/persuasion.md`, `docs/sales-funnel.md`
+   - One competitor file per teammate in `docs/competitors/` (use placeholder names if needed)
+2) Push to GitHub.
+3) Collaboration options:
+   - Option A (simpler): Add teammates as collaborators. Everyone creates branches and opens PRs in the same repo.
+   - Option B (advanced): Each student forks the team repo, then opens PRs from their fork back to the team repo.
+4) Each person edits only their two assigned files on their own branch and opens a PR.
+5) Merge PRs, then update `README.md` with final links.
+
+### Submission
+- Turn in your team GitHub repository URL on Canvas
+- Make sure your README has links to all student pages
+
+### Definition of Done
+- [ ] You completed exactly 2 pages (1 topic + 1 competitor)
+- [ ] Your team README lists every student and links to both of their pages
+- [ ] Your work was merged via Pull Request to main
+- [ ] Your team repo URL was submitted on Canvas
+
 ---
 
 ## 📚 Quick Learning Resources
