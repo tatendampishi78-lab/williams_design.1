@@ -1,5 +1,11 @@
 # 🕵️ Chapter 4: Competitive Analysis & SWOT - Legally Stalking Your Competition
 
+Quick navigation:
+- Home: [README](../README.md)
+- Student guide: [STUDENT-GUIDE-SIMPLIFIED.md](../STUDENT-GUIDE-SIMPLIFIED.md)
+- Research templates: [Archetype](../docs/archetype.md) • [Persuasion](../docs/persuasion.md) • [Sales funnel](../docs/sales-funnel.md)
+- Chapters: [Prev: Ch3 Funnels](chapter3-sales-funnels.md) • [Next: Ch5 Hero](chapter5-homepage-hero.md)
+
 > *"Your competitors spent millions figuring out what works. You're about to learn from their wins and failures for free."*
 
 ---

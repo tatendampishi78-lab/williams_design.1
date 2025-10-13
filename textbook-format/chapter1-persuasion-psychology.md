@@ -1,5 +1,11 @@
 # 🧠 Chapter 1: The Psychology Behind Why We Buy
 
+Quick navigation:
+- Home: [README](../README.md)
+- Student guide: [STUDENT-GUIDE-SIMPLIFIED.md](../STUDENT-GUIDE-SIMPLIFIED.md)
+- Research templates: [Archetype](../docs/archetype.md) • [Persuasion](../docs/persuasion.md) • [Sales funnel](../docs/sales-funnel.md)
+- Next chapters: [Ch2 Archetypes](chapter2-brand-archetypes.md) • [Ch3 Funnels](chapter3-sales-funnels.md)
+
 > *"Every swipe, click, and purchase you make is influenced by invisible psychological triggers. Today, you'll learn to see the Matrix of marketing."*
 
 ---

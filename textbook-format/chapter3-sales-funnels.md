@@ -1,5 +1,11 @@
 # 🎢 Chapter 3: Sales Funnels - The Psychology of "Yes, Yes, YES!"
 
+Quick navigation:
+- Home: [README](../README.md)
+- Student guide: [STUDENT-GUIDE-SIMPLIFIED.md](../STUDENT-GUIDE-SIMPLIFIED.md)
+- Research templates: [Archetype](../docs/archetype.md) • [Persuasion](../docs/persuasion.md) • [Sales funnel](../docs/sales-funnel.md)
+- Chapters: [Prev: Ch2 Archetypes](chapter2-brand-archetypes.md) • [Next: Ch4 Competitive](chapter4-competitive-analysis.md)
+
 > *"Ever wonder why you went to a website to 'just browse' and somehow ended up buying three things? That's not an accident - you just got funneled."*
 
 ---

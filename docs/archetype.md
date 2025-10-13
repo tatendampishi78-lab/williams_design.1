@@ -1,5 +1,11 @@
 # Brand Archetype Research
 
+Quick navigation:
+- Home: [README](../README.md)
+- Student guide: [STUDENT-GUIDE-SIMPLIFIED.md](../STUDENT-GUIDE-SIMPLIFIED.md)
+- Other templates: [Persuasion](persuasion.md) • [Sales funnel](sales-funnel.md)
+- Competitor template: [competitors/competitor-template.md](competitors/competitor-template.md)
+
 <!-- 
 👤 YOUR ROLE: Archetype Researcher
 📁 FILE: /docs/archetype.md

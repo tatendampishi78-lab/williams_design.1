@@ -1,5 +1,11 @@
 # 🎯 Brand Strategy Research Assignment - Student Guide
 
+Quick navigation:
+- Home: [README](README.md)
+- Research templates: [Archetype](docs/archetype.md) • [Persuasion](docs/persuasion.md) • [Sales funnel](docs/sales-funnel.md)
+- Competitor template: [docs/competitors/competitor-template.md](docs/competitors/competitor-template.md)
+- Optional chapters: [Ch1 Persuasion](textbook-format/chapter1-persuasion-psychology.md) • [Ch2 Archetypes](textbook-format/chapter2-brand-archetypes.md) • [Ch3 Funnels](textbook-format/chapter3-sales-funnels.md) • [Ch4 Competitive](textbook-format/chapter4-competitive-analysis.md) • [Ch5 Hero](textbook-format/chapter5-homepage-hero.md)
+
 > **Goal:** Learn brand strategy concepts while practicing GitHub team collaboration
 
 ---
@@ -343,3 +349,7 @@ A: Don't panic! Ask your instructor or look up "resolve git merge conflict." Thi
 ---
 
 *Questions? Check with your instructor or post in the class discussion forum.*
+
+---
+
+Back to: [README](README.md)

@@ -1,5 +1,10 @@
 # Competitor Analysis: [BRAND NAME]
 
+Quick navigation:
+- Home: [README](../../README.md)
+- Student guide: [STUDENT-GUIDE-SIMPLIFIED.md](../../STUDENT-GUIDE-SIMPLIFIED.md)
+- Research templates: [Archetype](../archetype.md) • [Persuasion](../persuasion.md) • [Sales funnel](../sales-funnel.md)
+
 <!-- 
 👤 YOUR ROLE: Everyone does one competitor analysis
 📁 FILE: /docs/competitors/[brand-name].md

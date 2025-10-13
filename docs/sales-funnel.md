@@ -1,5 +1,11 @@
 # Sales Funnel Strategy
 
+Quick navigation:
+- Home: [README](../README.md)
+- Student guide: [STUDENT-GUIDE-SIMPLIFIED.md](../STUDENT-GUIDE-SIMPLIFIED.md)
+- Other templates: [Archetype](archetype.md) • [Persuasion](persuasion.md)
+- Competitor template: [competitors/competitor-template.md](competitors/competitor-template.md)
+
 <!-- 
 👤 YOUR ROLE: Funnel Strategist
 📁 FILE: /docs/sales-funnel.md
