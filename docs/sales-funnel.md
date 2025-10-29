@@ -1,381 +1,202 @@
-# Sales Funnel Strategy
+What is a Sales Funnel?
 
-Quick navigation:
-- Home: [README](../README.md)
-- Student guide: [STUDENT-GUIDE-SIMPLIFIED.md](../STUDENT-GUIDE-SIMPLIFIED.md)
-- Other templates: [Archetype](archetype.md) • [Persuasion](persuasion.md)
-- Competitor template: [competitors/competitor-template.md](competitors/competitor-template.md)
+A sales funnel shows how customers move from discovering a brand to making a purchase. It’s called a “funnel” because many people start at the top, but only a few reach the bottom to buy. Each stage—awareness, interest, desire, and action—helps turn shoppers into loyal customers. For Sephora, this means guiding beauty lovers from exploring makeup tips to checking out their favorite products.
 
-<!-- 
-👤 YOUR ROLE: Funnel Strategist
-📁 FILE: /docs/sales-funnel.md
+Stage 1: Awareness
+What Happens in This Stage
 
-QUICK START:
-1. Read about the AIDA model (see main README or search "AIDA sales funnel")
-2. Trace how 2-3 websites guide users through each stage
-3. Identify what works and what doesn't
-4. Design a funnel strategy for YOUR business
+The goal is to attract people who don’t know Sephora yet. Visitors are looking for beauty inspiration, trends, or solutions to skin and makeup needs. Sephora wants to make a great first impression and show that it’s the top destination for all things beauty.
 
-THE 4 STAGES: Awareness → Interest → Desire → Action
+Real Website Example
+Example 1: Sephora
 
-Need help? Check the STUDENT-GUIDE-SIMPLIFIED.md file!
--->
+Website: https://www.sephora.com
 
-## What is a Sales Funnel?
+Business Type: Beauty and cosmetics retail
 
-<!-- 
-Explain the concept of a sales funnel in simple terms.
-Why is it called a "funnel"? What happens at each stage?
-Include 1-2 paragraphs that anyone could understand.
--->
+Awareness Techniques:
 
-[Write your explanation of what a sales funnel is and why it's important]
+Hero Section: High-quality banners with rotating beauty campaigns and trending products.
 
-### The AIDA Model
-The most common framework for understanding sales funnels is **AIDA**:
-- **A**wareness: Getting the customer's attention
-- **I**nterest: Building curiosity about your product/service  
-- **D**esire: Creating emotional connection and want
-- **A**ction: Encouraging the final conversion (purchase, signup, etc.)
+Headlines: “Your Beauty Destination — Shop New Arrivals.”
 
----
+Visual Appeal: Bright, elegant images with diverse models.
 
-## Stage 1: Awareness
-> *"How do we attract people who don't know about us yet?"*
+Value Proposition: Offers “Beauty Insider” membership right on the homepage.
 
-### What Happens in This Stage
-<!-- 
-Explain what businesses are trying to accomplish in the awareness stage.
-What is the visitor thinking/feeling? What are they looking for?
--->
+Why it works: It instantly captures attention and shows Sephora’s wide product variety while inviting visitors to join their loyalty program.
 
-[Explain the awareness stage in your own words]
+Stage 2: Interest
+What Happens in This Stage
 
-### Common Website Techniques
+Now visitors want to learn more. Sephora needs to keep them interested with helpful tools, tutorials, and personalized product recommendations.
 
-**Visual Elements:**
-- Eye-catching hero images or videos
-- Clear, compelling headlines
-- Strong branding and logo placement
-- Attractive color schemes and design
+Real Website Example
+Example 1: Sephora
 
-**Content Strategies:**
-- SEO-optimized content
-- Social media integration
-- Blog posts and articles
-- Free resources and tools
+Interest-Building Techniques:
 
-### Real Website Examples
+Navigation: Simple menus with clear categories (Makeup, Skincare, Fragrance).
 
-#### Example 1: [Company Name]
-**Website:** [URL]
-**Business Type:** [Industry/category]
+Product Display: Interactive product previews and filters by skin tone, brand, or concern.
 
-**Awareness Techniques:**
-- **Hero Section:** [Describe their homepage hero area]
-- **Headlines:** "[Quote their main headline]"
-- **Visual Appeal:** [Describe their imagery/design]
-- **Value Proposition:** [How they communicate what they do]
+Educational Content: “How-To” videos, blog posts, and virtual try-on tools.
 
-**Why it works:** [Your analysis]
+Engagement Features: Quiz for finding the right foundation shade.
 
-#### Example 2: [Company Name]
-**Website:** [URL]
-**Business Type:** [Industry/category]
+Why it works: The tools and guides keep shoppers exploring, increasing the time they spend on the site.
 
-**Awareness Techniques:**
-- **Hero Section:** [Describe their homepage hero area]
-- **Headlines:** "[Quote their main headline]" 
-- **Visual Appeal:** [Describe their imagery/design]
-- **Value Proposition:** [How they communicate what they do]
-
-**Why it works:** [Your analysis]
+Stage 3: Desire
+What Happens in This Stage
 
----
+Visitors are now interested—Sephora focuses on making them want the products. It builds emotional appeal through lifestyle images, influencer videos, and customer reviews.
 
-## Stage 2: Interest
-> *"How do we keep visitors engaged and wanting to learn more?"*
+Real Website Example
+Example 1: Sephora
 
-### What Happens in This Stage
-<!-- 
-Explain what businesses are trying to accomplish in the interest stage.
-The visitor is now paying attention - what do they need to see?
--->
-
-[Explain the interest stage in your own words]
-
-### Common Website Techniques
+Desire-Building Techniques:
 
-**Information Architecture:**
-- Clear navigation menus
-- Organized product/service categories
-- Easy-to-find information
-- Logical page flow
-
-**Content Strategies:**
-- Product demonstrations or tours
-- Educational content
-- Feature comparisons
-- FAQ sections
-- About us / company story
-
-### Real Website Examples
-
-#### Example 1: [Company Name]
-**Interest-Building Techniques:**
-- **Navigation:** [How they organize information]
-- **Product Display:** [How they showcase offerings]
-- **Educational Content:** [What they teach visitors]
-- **Engagement Features:** [Interactive elements, videos, etc.]
-
-**Why it works:** [Your analysis]
-
-#### Example 2: [Company Name]
-**Interest-Building Techniques:**
-- **Navigation:** [How they organize information]
-- **Product Display:** [How they showcase offerings]
-- **Educational Content:** [What they teach visitors]
-- **Engagement Features:** [Interactive elements, videos, etc.]
-
-**Why it works:** [Your analysis]
-
----
-
-## Stage 3: Desire
-> *"How do we make visitors want what we're offering?"*
-
-### What Happens in This Stage
-<!-- 
-Explain what businesses are trying to accomplish in the desire stage.
-The visitor is interested - now how do you make them want it?
--->
-
-[Explain the desire stage in your own words]
-
-### Common Website Techniques
-
-**Emotional Connection:**
-- Customer success stories
-- Lifestyle imagery
-- Benefits-focused messaging (not just features)
-- Problem/solution positioning
-
-**Trust Building:**
-- Customer testimonials and reviews
-- Security badges and certifications  
-- Money-back guarantees
-- Company credentials and awards
-
-**Urgency and Value:**
-- Special offers or discounts
-- Limited-time promotions
-- Clear pricing and value propositions
-- Risk-reduction messaging
-
-### Real Website Examples
+Emotional Appeals: Inspiring looks featuring confident, happy people.
 
-#### Example 1: [Company Name]
-**Desire-Building Techniques:**
-- **Emotional Appeals:** [How they connect emotionally]
-- **Social Proof:** [Testimonials, reviews, etc.]
-- **Value Proposition:** [How they demonstrate value]
-- **Trust Signals:** [Security, guarantees, credentials]
-
-**Why it works:** [Your analysis]
+Social Proof: Thousands of positive reviews and “Best Seller” badges.
 
-#### Example 2: [Company Name]
-**Desire-Building Techniques:**
-- **Emotional Appeals:** [How they connect emotionally]
-- **Social Proof:** [Testimonials, reviews, etc.]
-- **Value Proposition:** [How they demonstrate value]
-- **Trust Signals:** [Security, guarantees, credentials]
-
-**Why it works:** [Your analysis]
-
----
+Value Proposition: Emphasizes product quality and brand exclusivity.
 
-## Stage 4: Action
-> *"How do we convert interested visitors into customers?"*
-
-### What Happens in This Stage
-<!-- 
-Explain what businesses are trying to accomplish in the action stage.
-The visitor wants what you offer - how do you make conversion easy?
--->
+Trust Signals: Transparent return policy and verified buyer reviews.
 
-[Explain the action stage in your own words]
-
-### Common Website Techniques
+Why it works: Seeing real people and reviews helps visitors imagine using the products themselves, increasing their desire to buy.
 
-**Call-to-Action (CTA) Optimization:**
-- Clear, prominent buttons
-- Action-oriented language ("Get Started," "Buy Now," "Sign Up")
-- Strategic placement throughout the site
-- Contrasting colors that stand out
-
-**Conversion Process:**
-- Simple, streamlined forms
-- Guest checkout options
-- Multiple payment methods
-- Progress indicators
-- Mobile-friendly design
+Stage 4: Action
+What Happens in This Stage
 
-**Final Persuasion:**
-- Urgency messaging
-- Risk reduction (free trial, money-back guarantee)
-- Contact information and support options
-- Exit-intent popups or offers
+Sephora makes it simple to complete the purchase. The goal is to make checkout quick, smooth, and rewarding.
 
-### Real Website Examples
+Real Website Example
+Example 1: Sephora
 
-#### Example 1: [Company Name]
-**Action-Driving Techniques:**
-- **Call-to-Action:** "[Quote their main CTA button text]"
-- **Button Design:** [Describe color, placement, style]
-- **Conversion Process:** [How easy is it to buy/sign up?]
-- **Final Persuasion:** [Last-minute techniques they use]
+Action-Driving Techniques:
 
-**Why it works:** [Your analysis]
-
-#### Example 2: [Company Name]
-**Action-Driving Techniques:**
-- **Call-to-Action:** "[Quote their main CTA button text]"
-- **Button Design:** [Describe color, placement, style]  
-- **Conversion Process:** [How easy is it to buy/sign up?]
-- **Final Persuasion:** [Last-minute techniques they use]
+Call-to-Action: “Add to Basket” and “Checkout Now.”
 
-**Why it works:** [Your analysis]
+Button Design: Large black buttons with white text that stand out.
 
----
-
-## Complete Funnel Analysis
+Conversion Process: Guest checkout and multiple payment options, including Klarna.
 
-### Full Customer Journey Example
-<!-- 
-Choose ONE website and trace a complete path through all four stages.
-This could be an e-commerce site, service provider, SaaS company, etc.
--->
-
-**Company:** [Name]
-**Website:** [URL]
-**Business Type:** [Industry/category]
-
-| Stage | Website Section | Specific Techniques | Customer Mindset |
-|-------|----------------|-------------------|------------------|
-| **Awareness** | [Homepage hero, etc.] | [List 2-3 techniques] | "[What they're thinking]" |
-| **Interest** | [Product pages, etc.] | [List 2-3 techniques] | "[What they're thinking]" |
-| **Desire** | [Testimonials, etc.] | [List 2-3 techniques] | "[What they're thinking]" |  
-| **Action** | [Checkout, signup, etc.] | [List 2-3 techniques] | "[What they're thinking]" |
+Final Persuasion: Free samples and points for Beauty Insider members.
 
-**Overall Effectiveness:** [Your assessment of how well this funnel works]
+Why it works: The process feels fast, easy, and rewarding, motivating customers to finish their purchase.
 
----
+Complete Funnel Analysis
 
-## Strategy for Our Business Category
+Company: Sephora
+Website: https://www.sephora.com
 
-### Our Target Customer Journey
-<!-- 
-Design a sales funnel strategy specifically for your team's chosen business category.
-Think about your specific target audience and what they need at each stage.
--->
+Business Type: Beauty Retail
 
-**Business Category:** [Your team's chosen category]
-**Target Audience:** [Who are your ideal customers?]
+Stage	Website Section	Specific Techniques	Customer Mindset
+Awareness	Homepage hero	Bold visuals, trending campaigns	“This looks exciting—I want to explore.”
+Interest	Product pages	Tutorials, filters, try-on tools	“Which products fit me best?”
+Desire	Reviews & influencer content	Testimonials, emotional visuals	“I want this product—it looks amazing.”
+Action	Checkout	Easy process, points, free gifts	“I’ll buy it now—it’s worth it.”
 
-#### Stage 1: Awareness Strategy
-**Goal:** [What you want to accomplish]
+Overall Effectiveness: Sephora’s funnel is smooth and engaging. Each step builds trust and excitement, leading naturally to purchase.
 
-**Recommended Techniques:**
-- [Technique 1]: [Why this works for your audience]
-- [Technique 2]: [Why this works for your audience]
-- [Technique 3]: [Why this works for your audience]
+Strategy for Our Business Category
 
-#### Stage 2: Interest Strategy  
-**Goal:** [What you want to accomplish]
+Business Category: Beauty and Cosmetics
+Target Audience: Makeup and skincare enthusiasts ages 18–35
 
-**Recommended Techniques:**
-- [Technique 1]: [Why this works for your audience]
-- [Technique 2]: [Why this works for your audience]
-- [Technique 3]: [Why this works for your audience]
+Stage 1: Awareness Strategy
 
-#### Stage 3: Desire Strategy
-**Goal:** [What you want to accomplish]
+Goal: Attract new beauty lovers.
+Techniques:
 
-**Recommended Techniques:**
-- [Technique 1]: [Why this works for your audience]
-- [Technique 2]: [Why this works for your audience]  
-- [Technique 3]: [Why this works for your audience]
+Use social media ads with influencers.
 
-#### Stage 4: Action Strategy
-**Goal:** [What you want to accomplish]
+Highlight trending collections on homepage.
 
-**Recommended Techniques:**
-- [Technique 1]: [Why this works for your audience]
-- [Technique 2]: [Why this works for your audience]
-- [Technique 3]: [Why this works for your audience]
+Offer free samples to new visitors.
 
----
+Stage 2: Interest Strategy
 
-## Connection to Team Research
+Goal: Keep visitors exploring.
+Techniques:
 
-### How This Connects to Our Archetype
-<!-- 
-Reference your teammate's archetype research. How should the brand personality 
-influence the sales funnel? Be specific.
--->
+Add quizzes and AR try-ons.
 
-[Explain how your team's chosen archetype should influence each stage of the funnel]
+Post short makeup tutorials.
 
-### How This Connects to Persuasion Principles
-<!-- 
-Reference your teammate's persuasion research. Which principles work best 
-at each stage of the funnel?
--->
+Use “Shop the Look” features.
 
-**Recommended Persuasion Techniques by Stage:**
-- **Awareness:** [Which principles work best here and why]
-- **Interest:** [Which principles work best here and why]  
-- **Desire:** [Which principles work best here and why]
-- **Action:** [Which principles work best here and why]
+Stage 3: Desire Strategy
 
----
+Goal: Make customers want the products.
+Techniques:
 
-## Measuring Funnel Success
+Show real customer before-and-after photos.
 
-### Key Metrics to Track
-<!-- 
-What numbers would tell you if your funnel is working?
-Think about metrics for each stage.
--->
+Highlight exclusive or limited products.
 
-**Awareness Metrics:**
-- [Metric 1]: [What it measures]
-- [Metric 2]: [What it measures]
+Use loyalty rewards messaging.
 
-**Interest Metrics:**
-- [Metric 1]: [What it measures]
-- [Metric 2]: [What it measures]
+Stage 4: Action Strategy
 
-**Desire Metrics:**
-- [Metric 1]: [What it measures]
-- [Metric 2]: [What it measures]
+Goal: Encourage fast, easy purchases.
+Techniques:
 
-**Action Metrics:**
-- [Metric 1]: [What it measures]
-- [Metric 2]: [What it measures]
+Offer one-click checkout.
 
----
+Include free samples or bonus points.
 
-## Research Sources
-<!-- 
-List your sources - websites analyzed, articles read, tools used.
--->
+Use reminders for abandoned carts.
 
-1. [Source 1 - Title and URL]
-2. [Source 2 - Title and URL]  
-3. [Source 3 - Title and URL]
-4. [Websites analyzed - list all sites you studied]
+Connection to Team Research
+How This Connects to Our Archetype
 
----
+If Sephora fits the “Lover” archetype, the funnel should focus on beauty, confidence, and self-expression. Every stage should make customers feel valued and beautiful.
 
-*💡 Remember: Your sales funnel should feel natural and helpful, not pushy. The best funnels guide customers through a journey that serves their needs while achieving business goals!*
+How This Connects to Persuasion Principles
+
+Awareness: Liking — friendly visuals and inclusive branding.
+
+Interest: Authority — expert tips and tutorials.
+
+Desire: Social Proof — reviews and influencer videos.
+
+Action: Reciprocity — free gifts and loyalty points.
+
+Measuring Funnel Success
+
+Awareness Metrics:
+
+Website traffic (measures reach)
+
+Social media engagement (measures visibility)
+
+Interest Metrics:
+
+Time on site (measures engagement)
+
+Click-through rate on products (measures curiosity)
+
+Desire Metrics:
+
+Add-to-cart rate (measures purchase intent)
+
+Wishlist additions (measures desire level)
+
+Action Metrics:
+
+Conversion rate (measures sales)
+
+Loyalty signups (measures repeat interest)
+
+Research Sources
+
+Sephora Official Website — https://www.sephora.com
+
+AIDA Model Explanation — HubSpot Marketing Blog
+
+Forbes: “How Sephora Wins Customer Loyalty Through Personalization”
+
+Sephora Beauty Insider Program Overview
